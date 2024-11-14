@@ -1,7 +1,7 @@
 ---
 title: Wanderlust
-emoji: 🚀
-colorFrom: red
+emoji: 🚂
+colorFrom: green
 colorTo: pink
 sdk: docker
 pinned: false
