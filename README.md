@@ -13,5 +13,3 @@ OpenAI Wanderlust application with [Solara](https://solara.dev)
  * [Deployed app](https://huggingface.co/spaces/solara-dev/wanderlust)
 
 
-https://github.com/widgetti/wanderlust/assets/1765949/fe3db611-4f46-4ca3-b4c2-ace6d2b1493b
-
