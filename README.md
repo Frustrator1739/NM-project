@@ -12,7 +12,7 @@ OpenAI Wanderlust application with [Solara](https://solara.dev)
  * [Solara GitHub](https://github.com/widgetti/solara/).
  * [Deployed app](https://huggingface.co/spaces/solara-dev/wanderlust)
 
-[![Video](https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2023/06/RESULT-1.jpg)](link)
+[![Video](https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2023/06/RESULT-1.jpg)](recording-2024-11-14-19-34-16.webm)
 
 
 
